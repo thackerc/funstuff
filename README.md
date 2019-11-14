@@ -2,6 +2,5 @@
 
 This is the fun stuff README file.
 
-Hello World.
-
+This is so fun.
 
