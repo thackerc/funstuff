@@ -1,4 +1,4 @@
-# FUN STUFF
+# Fun Stuff
 
 This is the fun stuff README file.
 
